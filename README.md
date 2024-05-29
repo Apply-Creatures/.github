@@ -189,7 +189,7 @@ Part of Apply Creatures code is open-source. We are committed to a transparent d
 
 Not sure where to start? Join our discord and we will help you get started!
 
-<a href="https://applycreatures.com/discord"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" /></a>
+<a href="https://applycreatures.com/discord"><img style="height: 40px;" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" /></a>
 
 ## Contributors
 
