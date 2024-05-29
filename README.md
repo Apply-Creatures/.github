@@ -59,7 +59,7 @@ With a strong focus on collaboration, Apply Creature internally streamlines team
 <p align="center">
     <img width="49%" src="./assets/73097785/62c8d533-8475-4290-abc8-c433c095e68a.png" alt="plugins"/>
 &nbsp;
-    <img width="49%" src=./assets/73097785/9c67a354-a06f-47d1-a118-ab89b775bf91.png" alt="microservices"/>
+    <img width="49%" src="./assets/73097785/9c67a354-a06f-47d1-a118-ab89b775bf91.png" alt="microservices"/>
 </p> 
     
 <p align="center">
