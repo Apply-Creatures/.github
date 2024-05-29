@@ -33,7 +33,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/applycreatures/.github/assets/149934977/80ed0d00-2f08-4bd8-92b1-1a347bb30ba6" alt="dashboard"/>
+    <img src="https://github.com/applycreatures/.github/assets/149934977/80ed0d00-2f08-4bd8-92b1-1a347bb30ba6.png" alt="dashboard"/>
 </p>
 
 
@@ -63,7 +63,7 @@ With a strong focus on collaboration, Apply Creature internally streamlines team
 </p> 
     
 <p align="center">
-    <img width="49%" src="https://github.com/apply-creatures/.github/assets/149934977/4daf03a4-0866-49c9-8dd6-a340f3465c73" alt="own-your-code"/>
+    <img width="49%" src="https://github.com/apply-creatures/.github/assets/73097785/4daf03a4-0866-49c9-8dd6-a340f3465c73.png" alt="own-your-code"/>
 &nbsp;
     <img width="49%" src="https://github.com/apply-creatures/.github/assets/73097785/1cca9721-b8d6-425b-a1a9-d10d3cdcc9b8.png" alt="customize-code"/>
 </p>
