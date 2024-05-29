@@ -9,8 +9,8 @@
 </p>
 
 <h4 align="center">
-  <a href="https://github.com/apply-creatures/.github/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/apply-creatures/.github/ci.yml?branch=master&label=pipeline&style=flat-square" alt="continuous integration" style="height: 20px;">
+  <a href="https://github.com/apply-creatures/.github/.github/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/apply-creatures/.github/.github/workflows/ci.yml?branch=main&label=pipeline&style=flat-square" alt="continuous integration" style="height: 20px;">
   </a>
   <a href="https://github.com/apply-creatures/.github/graphs/contributors">
     <img src="https://img.shields.io/github/contributors-anon/.github/apply-creatures?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
@@ -105,7 +105,7 @@ Running a Creature component
 </summary> <br />
 
 > **Note**
-> It is also possible to start development with GitHub Codespaces, when navigating to `< > Code`, select `Codespaces` instead of `Local`. Click on either the `+`-sign or the `Create codespace on master`-button.
+> It is also possible to start development with GitHub Codespaces, when navigating to `< > Code`, select `Codespaces` instead of `Local`. Click on either the `+`-sign or the `Create codespace on main`-button.
 
 Creatures are likely using needing nodejs, TypeScript. Some may require Docker.
 
