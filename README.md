@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://applycreatures.com">
-    <img src="./.github/assets/logo.png">
+    <img src="./assets/logo.png">
     </a>
 </h1>
 
