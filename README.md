@@ -33,7 +33,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/applycreatures/.github/assets/149934977/80ed0d00-2f08-4bd8-92b1-1a347bb30ba6.png" alt="dashboard"/>
+    <img src="https://github.com/applycreatures/.github/assets/149934977/329926831-80ed0d00-2f08-4bd8-92b1-1a347bb30ba6.png" alt="dashboard"/>
 </p>
 
 
