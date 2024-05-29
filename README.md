@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/apply-creatures/.github/.github/workflows/ci.yml?branch=main&label=pipeline&style=flat-square" alt="continuous integration" style="height: 20px;">
   </a>
   <a href="https://github.com/apply-creatures/.github/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors-anon/.github/apply-creatures?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
+    <img src="https://img.shields.io/github/contributors-anon/apply-creatures/.github?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
   </a>
   <a href="https://opensource.org/licenses/Apache-2.0">
     <img src="https://img.shields.io/badge/apache%202.0-blue.svg?style=flat-square&label=license" alt="license" style="height: 20px;">
@@ -189,7 +189,7 @@ Part of Apply Creatures code is open-source. We are committed to a transparent d
 
 Not sure where to start? Join our discord and we will help you get started!
 
-<a href="https://applycreatures.com/discord"><img src="https://applycreatures.com/images/discord_banner_purple.svg" /></a>
+<a href="https://applycreatures.com/discord"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" /></a>
 
 ## Contributors
 
@@ -200,4 +200,4 @@ change the height and width for each of the contributors from 80 to 50.
 --->
 
 [//]: contributor-faces
-<a href="https://github.com/hirako2000"><img src="https://avatars.githubusercontent.com/u/hirako2000?v=4" title="Hirako San" width="50" height="50"></a>
+<a href="https://github.com/hirako2000"><img src="https://avatars.githubusercontent.com/u/1500712?v=4" title="Hirako San" width="50" height="50"></a>
