@@ -112,56 +112,29 @@ Creatures are likely using needing nodejs, TypeScript. Some may require Docker, 
 3. You have `docker` installed and running on your machine
 
 
-1. Clone the repository and install dependencies:
+1. Clone the repository
 ```shell
-git clone https://github.com/apply-creatures/someapplication.git && cd someapplication && npm install
+git clone https://github.com/apply-creatures/someapplication.git
 ```
 
-2. Run the setup script, which takes care of installing dependencies, building packages, and setting up the workspace:
-```shell
-npm run setup:dev
-```
-
-3. Option 1: Running the required infrastructure - view infrastructure component logs
-
-
-```shell
-npm run docker:dev
-```
-3. Option 2: Running the required infrastructure - run the infrastructure components in background
-```shell
-npm run docker:dev -- -d
-```
-
-4. Apply database migrations
-```shell
-npm run db:migrate:deploy
-```
-
-5. To start developing, run one or more of the applications available under `serve:[application]` scripts of the package.json.
-
-```shell
-# running the server component
-npm run serve:server
-
-# running the client component
-npm run serve:client
-
-# running the data-service-generator component
-npm run serve:dsg
-
-# running the git-sync-manager component
-npm run serve:git
-
-# running the plugin-api component
-npm run serve:plugins
-```
+Then follow its README.
 
 > **Note**
-> In order to run some creaturec client properly, both the client and server need to be started by the `npm run serve:[application]` command, as well as an additional component for development on a specific component.
 
 The development environment should now be set up. Additional information on the different application components can be found under packages/`[application]`/README.md file. Happy hacking! 👾
 </details>
+
+## Used services and tech 
+
+We use 3rd party services and infrastructure. We can't afford a DC yet.
+
+**Preferred orgs**
+
+- [fly.io] - they offer a truly amazing PaaS, at an incredible price.
+- [let's encrypt](https://letsencrypt.org/) - and for each cert we generate, some pennies go donation to them
+- [cloudflare](https://dash.cloudflare.com/) - hard to not have a registrar, plus they offer very affordable and interesting hosting infra
+- [radicle.xyz](https://radicle.xyz/) - not really a service, but they are building the infra for privacy repositories, we push to radicle public nodes and have our private node
+- 
 
 ## Resources
 
