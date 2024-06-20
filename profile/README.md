@@ -79,7 +79,7 @@ To get started with Apply Creature, the hosted version of the component can be u
   Tutorials
 </summary> <br />
 
-- [To-do application using a Creature and React](https://docs.applycreatures.com/tutorials/react-todos)
+- [To-do application using a Creatures and UI integration](https://docs.applycreatures.com/tutorials/creature-todos)
 </details>
 
 ## Development
@@ -104,10 +104,7 @@ To be able to start development of a Creature, make sure that you have the follo
 Running a Creature component
 </summary> <br />
 
-> **Note**
-> It is also possible to start development with GitHub Codespaces, when navigating to `< > Code`, select `Codespaces` instead of `Local`. Click on either the `+`-sign or the `Create codespace on main`-button.
-
-Creatures are likely using needing nodejs, TypeScript. Some may require Docker.
+Creatures are likely using needing nodejs, TypeScript. Some may require Docker, a popular snake, and some Elixir. But with a bit of Rust, you will be fine. Or just fall back to typescript, really it doesn't matter so long as it does the job but does it nicely.
 
 **BEFORE** you run the following steps make sure:
 1. You are using a supported node version (check `engines` `node` in the [package.json](../package.json))
