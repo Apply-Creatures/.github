@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://applycreatures.com">
-    <img src="../assets/logo.png" style="height: 400px;">
+    <img src="./assets/feathers-cubic-square.png">
     </a>
 </h1>
 
